@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-//qwertyuiop[]erftgyujkolp[ertklrtuiddf vdf
-
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
